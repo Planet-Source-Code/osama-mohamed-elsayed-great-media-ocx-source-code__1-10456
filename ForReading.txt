@@ -1,0 +1,6 @@
+If you have some media files standard files or compression files you can now run it by this ocx and learn how you can do that by mciSendCommand function but all documents told this command consider low level code but i simplfied it to understand and i embed all constants and types you need it to do that
+but that's not all i promise as soon as possible i will modify it to play all media files specially ram ,ra and all like that 
+if you want more help or any question you can contact with me be e-mail 
+osama_nt@intouch.com or icq: 64529562
+don't forget if you satisified vote to me :)
+and wait more and more 
