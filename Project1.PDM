@@ -1,0 +1,168 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=D:\Source_Code_Planet\VB\MediaOcx
+Controls Design-Time Support=Yes
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+
+[Package|Dep File 1|Missing Dependency Information]
+C:\WIN98\SYSTEM\MCIQTZ.DRV=
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+
+[Package|Dep File 1|Files Added]
+C:\WIN98\SYSTEM\MsStkPrp.dll=This file is needed for usercontrol design-time support.
+C:\WIN98\SYSTEM\MCIAVI.DRV=
+C:\WIN98\SYSTEM\MCIQTZ.DRV=
+C:\WIN98\SYSTEM\MCISEQ.DRV=
+
+[Package|Dep File 1|Files Removed]
+
+[Package|Dep File 1|Files In Project]
+D:\Source_Code_Planet\VB\MediaOcx\OMEAMedia.ocx=Yes
+C:\WIN98\SYSTEM\msvbvm60.dll=Yes
+C:\WIN98\SYSTEM\OLEAUT32.DLL=Yes
+C:\WIN98\SYSTEM\OLEPRO32.DLL=Yes
+C:\WIN98\SYSTEM\ASYCFILT.DLL=Yes
+C:\WIN98\SYSTEM\STDOLE2.TLB=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WIN98\SYSTEM\MSSTKPRP.DLL=Yes
+C:\WIN98\SYSTEM\MCIAVI.DRV=Yes
+C:\WIN98\SYSTEM\MCIQTZ.DRV=Yes
+C:\WIN98\SYSTEM\MCISEQ.DRV=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 1|Install Locations]
+D:\Source_Code_Planet\VB\MediaOcx\OMEAMedia.ocx=$(AppPath)
+C:\WIN98\SYSTEM\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WIN98\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WIN98\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WIN98\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WIN98\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WIN98\SYSTEM\MSSTKPRP.DLL=$(WinSysPath)
+C:\WIN98\SYSTEM\MCIAVI.DRV=$(WinSysPathSysFile)
+C:\WIN98\SYSTEM\MCIQTZ.DRV=$(WinSysPath)
+C:\WIN98\SYSTEM\MCISEQ.DRV=$(WinSysPathSysFile)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 1|DepFile]
+DepCabFile=OMEAMedia.CAB
+DepCabRun=OMEAMedia.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=D:\Source_Code_Planet\VB\MediaOcx
+ProjectFolder=D:\Source_Code_Planet\VB\MediaOcx
+ServerSideCab=
+File1=D:\Source_Code_Planet\VB\MediaOcx\OMEAMedia.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Source_Code_Planet\VB\MediaOcx\Mine
+Controls Design-Time Support=Yes
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\WIN98\SYSTEM\MCIQTZ.DRV=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 1|Files Added]
+C:\WIN98\SYSTEM\MsStkPrp.dll=This file is needed for usercontrol design-time support.
+C:\WIN98\SYSTEM\MCISEQ.DRV=
+C:\WIN98\SYSTEM\MCIQTZ.DRV=
+C:\WIN98\SYSTEM\MCIAVI.DRV=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+D:\Source_Code_Planet\VB\MediaOcx\OMEAMedia.ocx=Yes
+C:\WIN98\SYSTEM\msvbvm60.dll=Yes
+C:\WIN98\SYSTEM\OLEAUT32.DLL=Yes
+C:\WIN98\SYSTEM\OLEPRO32.DLL=Yes
+C:\WIN98\SYSTEM\ASYCFILT.DLL=Yes
+C:\WIN98\SYSTEM\STDOLE2.TLB=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WIN98\SYSTEM\VB6STKIT.DLL=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WIN98\SYSTEM\MSSTKPRP.DLL=Yes
+C:\WIN98\SYSTEM\MCISEQ.DRV=Yes
+C:\WIN98\SYSTEM\MCIQTZ.DRV=Yes
+C:\WIN98\SYSTEM\MCIAVI.DRV=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+D:\Source_Code_Planet\VB\MediaOcx\OMEAMedia.ocx=$(AppPath)
+C:\WIN98\SYSTEM\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WIN98\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WIN98\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WIN98\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WIN98\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WIN98\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WIN98\SYSTEM\MSSTKPRP.DLL=$(WinSysPath)
+C:\WIN98\SYSTEM\MCISEQ.DRV=$(WinSysPathSysFile)
+C:\WIN98\SYSTEM\MCIQTZ.DRV=$(WinSysPath)
+C:\WIN98\SYSTEM\MCIAVI.DRV=$(WinSysPathSysFile)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\Source_Code_Planet\VB\MediaOcx\OMEAMedia.ocx=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=OMEAMedia OCX
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=D:\Source_Code_Planet\VB\MediaOcx\Mine
+ProjectFolder=D:\Source_Code_Planet\VB\MediaOcx
+ServerSideCab=
+File1=D:\Source_Code_Planet\VB\MediaOcx\Mine\setup.exe
+File2=D:\Source_Code_Planet\VB\MediaOcx\Mine\Setup.Lst
+File3=D:\Source_Code_Planet\VB\MediaOcx\Mine\OMEAMedia.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
